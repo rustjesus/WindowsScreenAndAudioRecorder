@@ -245,7 +245,7 @@ namespace ScreenRecorder
         private void testToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Specify the URL to open
-            string url = "https://manbearpigman.itch.io/notepad-on-crack";
+            string url = "https://manbearpigman.itch.io";
 
             // Start a new process to open the default browser and navigate to the URL
             System.Diagnostics.Process.Start(url);
